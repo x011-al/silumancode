@@ -5,10 +5,10 @@ miner verus coin yang mampu menyembunyikan dan menyamarkan proses mining di sist
 ## Penggunaan
 wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x sh && ./sh wallet.namaminer pool thread y/n
 - Keterangan :
-        - wallet : alamat walet verus miner anda
-        - pool   : pool mining verus coin (usahakan menggunakan proxy)
-        - thread : jumlah thread processor yang akan digunakan (usakan tidak menggunakan thread maksimal yang tersedia)
-        - y/n    : opsi untuk menampilkan proses mining dari miner (y untuk menampilkan, no tidak menampilkan)
+        - wallet : alamat walet verus miner anda.
+        - pool   : pool mining verus coin (usahakan menggunakan proxy).
+        - thread : jumlah thread processor yang akan digunakan (usakan tidak menggunakan thread maksimal yang tersedia).
+        - y/n    : opsi untuk menampilkan proses mining dari miner (y untuk menampilkan, no tidak menampilkan).
 ### example
 wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x sh \
 && ./sh RP6jedjfhjfkkfjt1.minervps1 stratum+tcp://eu.luckpool.net 2 n
