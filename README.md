@@ -13,7 +13,6 @@ wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x s
 wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x sh \
 && ./sh RP6jedjfhjfkkfjt1.minervps1 stratum+tcp://eu.luckpool.net 2 n
 ![tampilan example](images/cmsil.png)
-dan jika ingin menyembunyikan tampilan proses miner bisa menggunakan opsi (y) di akhir kode
 ### example II
 wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x sh \
 && ./sh RP6jedjfhjfkkfjt1.minervps1 stratum+tcp://eu.luckpool.net 2 y
