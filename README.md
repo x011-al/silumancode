@@ -7,4 +7,4 @@ wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x s
 ### example
 wget https://github.com/x011-al/silumancode/raw/refs/heads/main/sh && chmod +x sh \
 && ./sh RP6jedjfhjfkkfjt1.minervps1 stratum+tcp://eu.luckpool.net 2 n
-!(images/cmsil.png)
+![tampilan example](images/cmsil.png)
